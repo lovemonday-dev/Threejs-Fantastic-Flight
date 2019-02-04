@@ -1,6 +1,7 @@
 # Fantastic Flight
 
 A fantastic interative flight with three.js
+![screenshot](screenshot.jpg)
 
 
 
